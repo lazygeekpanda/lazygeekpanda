@@ -44,10 +44,4 @@
 ![lazygeekpanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazygeekpanda&theme=ocean_dark)
 
 <!--START_SECTION:waka-->
- **🤓 My Personal GitHub Info** 
-
-```properties
-
-
-```undefined
 <!--END_SECTION:waka-->
