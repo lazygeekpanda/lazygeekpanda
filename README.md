@@ -24,5 +24,5 @@
 
 ### :octocat: Github stats
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazygeekpanda&count_private=true&theme=ocean_dark)
-![lazygeekpanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazygeekpanda&theme=ocean_dark&v=2)
+![lazygeekpanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazygeekpanda&theme=ocean_dark&layout=compact)
 ![lazygeekpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazygeekpanda&hide=contribs&count_private=true&theme=ocean_dark)
