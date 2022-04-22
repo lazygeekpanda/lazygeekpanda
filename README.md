@@ -1,6 +1,4 @@
  ***Cover photo***
- 
- ***badges(visits, links)***
  ![Visits Badge](https://badges.pufler.dev/visits/lazygeekpanda/lazygeekpanda?style=flat-square)
  [![wakatime](https://wakatime.com/badge/user/1df85413-ba3d-464c-9c55-68c47e60d472.svg?style=flat-square)](https://wakatime.com/@1df85413-ba3d-464c-9c55-68c47e60d472)
  
