@@ -5,9 +5,7 @@
  [![wakatime](https://wakatime.com/badge/user/1df85413-ba3d-464c-9c55-68c47e60d472.svg?style=flat-square)](https://wakatime.com/@1df85413-ba3d-464c-9c55-68c47e60d472)
  
  ## Hi, I'm **lazygeekpanda** :panda_face:
- **TODO: Better description
- A senior front-end developer based in Klaipeda, Lithuania.
-
+ A senior front-end developer based in Klaipeda, Lithuania. Currently working as full-time front-end developer at [Kabal](https://kabal.com/) and freelance software developer [Kodeo](https://kodeo.lt).
 
 ### :briefcase: My technology stack
 #### Most used
@@ -38,10 +36,9 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 
 
-### :octocat: Github stats
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazygeekpanda&count_private=true&theme=ocean_dark)
-![lazygeekpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazygeekpanda&hide=contribs&count_private=true&theme=ocean_dark)
-![lazygeekpanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazygeekpanda&theme=ocean_dark)
+### :octocat: Profile stats
+<!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazygeekpanda&count_private=true&theme=ocean_dark)
+![lazygeekpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazygeekpanda&hide=contribs&count_private=true&theme=ocean_dark) -->
 
 <!--START_SECTION:waka-->
 
