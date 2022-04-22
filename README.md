@@ -44,4 +44,14 @@
 ![lazygeekpanda's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lazygeekpanda&theme=ocean_dark)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   13 hrs 19 mins  █████████████▒░░░░░░░░░░░   53.53 %
+JavaScript   4 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+Vue.js       1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+CSS          1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+JSON         1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+HTML         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+```
+
 <!--END_SECTION:waka-->
