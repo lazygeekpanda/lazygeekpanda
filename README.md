@@ -47,8 +47,5 @@ JSON         9 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<details>
- <summary>Github stats</summary>
- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazygeekpanda&count_private=true&theme=ocean_dark)
- ![lazygeekpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazygeekpanda&hide=contribs&count_private=true&theme=ocean_dark)
-</details>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazygeekpanda&count_private=true&theme=ocean_dark)
+![lazygeekpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazygeekpanda&hide=contribs&count_private=true&theme=ocean_dark)
