@@ -38,7 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   4 hrs 55 mins   ████████████████████▓░░░░   82.39 %
+Bash         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+JSON         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Git          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
