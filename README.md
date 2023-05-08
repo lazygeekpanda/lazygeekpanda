@@ -37,16 +37,5 @@
 
 
 ### :octocat: Profile stats
-
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   17 hrs 24 mins  ████████████████████████▓   99.19 %
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-```
-
-<!--END_SECTION:waka-->
-
 <!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazygeekpanda&count_private=true) -->
 ![lazygeekpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazygeekpanda&hide=contribs&count_private=true)
