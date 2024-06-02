@@ -34,8 +34,3 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
-
-
-### :octocat: Profile stats
-<!-- ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazygeekpanda&count_private=true) -->
-![lazygeekpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazygeekpanda&hide=contribs&count_private=true)
